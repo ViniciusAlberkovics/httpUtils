@@ -1,5 +1,5 @@
 {
-  "name": "@viniciusalberkovics/httputils",
+  "name": "httputils",
   "version": "1.0.0",
   "description": "RestClient for nodejs",
   "main": "index.js",
