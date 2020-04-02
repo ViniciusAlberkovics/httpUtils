@@ -1,0 +1,24 @@
+{
+  "name": "@viniciusalberkovics/httputils",
+  "version": "1.0.0",
+  "description": "RestClient for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusAlberkovics/httpUtils.git"
+  },
+  "keywords": [
+    "httpUtils",
+    "restclient-nodejs",
+    "rest-client"
+  ],
+  "author": "Vinicius Alberkovics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusAlberkovics/httpUtils/issues"
+  },
+  "homepage": "https://github.com/ViniciusAlberkovics/httpUtils#readme"
+}
