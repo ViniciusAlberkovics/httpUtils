@@ -1,5 +1,5 @@
 {
-  "name": "httputils",
+  "name": "rest-client-js",
   "version": "1.0.0",
   "description": "RestClient for nodejs",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ViniciusAlberkovics/httpUtils.git"
+    "url": "git+https://github.com/ViniciusAlberkovics/rest-client.git"
   },
   "keywords": [
     "httpUtils",
@@ -18,6 +18,6 @@
   "author": "Vinicius Alberkovics",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ViniciusAlberkovics/httpUtils/issues"
+    "url": "https://github.com/ViniciusAlberkovics/rest-client/issues"
   }
 }
